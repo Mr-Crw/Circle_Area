@@ -112,7 +112,7 @@ Contributions and improvements are welcome. Please open an issue or submit a pul
 
 ## License
 
-No license is specified. If you want to add one, consider using the MIT License for permissive reuse.
+Using the MIT License for permissive reuse.
 
 ## Contact
 
